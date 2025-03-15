@@ -1,16 +1,10 @@
-# A parkour FPS controller for Godot 4
+# arthritis
 
-The code is kinda "prototypey"
+YOU HAVE ARTHRITIS
+GO TO THE HOSPITAL.
 
-Based on Garbaj's ideas in his awesome FPS controller for Godot 3:
-https://github.com/GarbajYT/godot_updated_fps_controller
+DOWNLOAD HERE: https://psyclown.itch.io/berson-has-arthritis
 
-Crosshair by the awesome Kenney:
-https://www.kenney.nl/assets/crosshair-pack
-
-Prototype textures also by Kenney:
-https://www.kenney.nl/assets/prototype-textures
-
-Jump and Land sounds aren't included
-
-Playable .exe downloadable here: https://deiran.itch.io/parkour-playground
+Credits
+Models taken from sketchfab
+Core movement template by Jeheno (from godot asset library)
