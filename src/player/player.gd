@@ -12,11 +12,11 @@ extends CharacterBody3D
 
 ## Jump and Land sounds aren't included
 
-var speed: float = 15
+var speed: float = 32
 const ACCEL_DEFAULT: float = 7
 const ACCEL_AIR: float = 1
-var gravity: float = 9.8
-var jump: float = 8
+var gravity: float = 32
+var jump: float = 16
 
 var cam_accel: float = 40
 var mouse_sense: float = 0.1
