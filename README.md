@@ -14,7 +14,7 @@ You will need Godot Engine 4.3 or higher. (If you are on Godot 4.4 or higher, yo
 ```gh repo clone ballsacksoftwares/arthritis```
 
 Once you've cloned the repository, open your Godot Engine and click on Import on the top left.\
-Locate your cloned repository folder and open the "src" folder, which has the Godot Project inside.\
+Locate your cloned repository folder and open it, which has the Godot Project inside.\
 Open the project in the editor and you should be all set!
 
 ## Credits
